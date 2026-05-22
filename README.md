@@ -26,6 +26,7 @@ I turn ideas into interfaces, pixel by pixel, with Figma, Framer open and coffee
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
+
 ---
 
 <!-- Collaboration -->
