@@ -37,11 +37,11 @@ I turn ideas into interfaces, pixel by pixel, with Figma, Framer open and coffee
 <!-- Collaboration -->
 ### // let's build something
 
-🤝 &nbsp;**Open to collaborating!**
+ &nbsp;**Open to collaborating!**
 Got a fun UI challenge, a side project that needs some polish, or just want to jam on ideas?
 Let's build something cool together.
 
-📬 &nbsp;Reach me at: **reneespina0929@gmail.com**
+ &nbsp;Reach me at: **reneespina0929@gmail.com**
 
 ---
 
