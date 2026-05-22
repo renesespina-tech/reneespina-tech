@@ -15,12 +15,6 @@ I turn ideas into interfaces, pixel by pixel, with Figma, Framer open and coffee
 
 ---
 
-<!-- Currently Building -->
-
-> 🟢 &nbsp;**my personal portfolio site** — stay tuned!
-
----
-
 <!-- Stack & Tools -->
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
