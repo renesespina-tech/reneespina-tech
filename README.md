@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="giorno.png" width="150" align="right" />
+<img src="giorno.png" width="150" align="center" margin-bottom="50" />
 
 ---
 
