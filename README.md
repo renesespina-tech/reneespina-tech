@@ -22,7 +22,6 @@ I turn ideas into interfaces, pixel by pixel, with Figma, Framer open and coffee
 ---
 
 <!-- Stack & Tools -->
-### // stack & tools
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +38,7 @@ I turn ideas into interfaces, pixel by pixel, with Figma, Framer open and coffee
 Got a fun UI challenge, a side project that needs some polish, or just want to jam on ideas?
 Let's build something cool together.
 
-Reach me at: reneespina0929@gmail.com
+Reach me at: reneespina0929@gmail.com <br>
 Upwork: https://www.upwork.com/freelancers/~019d8ef0f18373a99a?mp_source=share
 
 ---
