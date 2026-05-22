@@ -1,10 +1,10 @@
 <!-- Header -->
 <div align="center">
 
-# hey, I'm Rene Espina 👋
+# hey, I'm Rene Espina
 ### `@rene-dev`
 
-*Frontend dev who thinks **design is a superpower**. 🎨*
+*Frontend dev who thinks **design is a superpower**.
 *I turn ideas into interfaces — pixel by pixel, with Figma open and coffee nearby.*
 
 </div>
